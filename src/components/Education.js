@@ -49,10 +49,16 @@ const Education = () => {
 
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
                     <Details
+                        type="MBA In Information Technology "
+                        time="2025-2027"
+                        place="Deogiri Institute of Engineering & Management Studies (D.I.E.M.S)"
+                        info="Pursuing an MBA with a specialization in Information Technology, focusing on how data, analytics, and AI are reshaping business strategy and innovation. The program emphasizes data-driven decision-making, digital transformation, and enterprise analytics, equipping me with strategic leadership and technical management skills. Through coursework and case studies, I’m exploring how emerging technologies such as cloud computing, AI-driven automation, and predictive analytics can drive sustainable business growth and operational efficiency. "
+                    />
+                    <Details
                         type="B.Tech In Computer Science & Engineering "
                         time="2021-2025"
-                        place="People's Education Society(P.E.S)"
-                        info="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, Machine Learning, Artificial Intelligence, DeepLearning, Data Science, Data Analysis, DevOps, Cloud Computing, Microprocessor, digital signal and Image Processing, VLSI and  Statistics "
+                        place="People's Education Society (P.E.S)  CGPA: 9.0/10"
+                        info="Developed a comprehensive foundation in data science, machine learning, deep learning, and software engineering. Gained hands-on experience through multiple academic and industry projects involving AI development, predictive modeling, and cloud deployment pipelines. My journey here strengthened my technical problem-solving, programming, and analytical abilities — empowering me to bridge the gap between data-driven innovation and real-world applications in AI and intelligent systems. "
                     />
                     
                     <Details

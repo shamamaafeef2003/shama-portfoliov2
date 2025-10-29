@@ -3,7 +3,7 @@ import Layout from '../components/Layout';
 import Head from 'next/head';
 import Image from 'next/image';
 import React, { useEffect, useRef } from 'react';
-import profilePic from "../../public/images/profile/bebo 4.png";
+import profilePic from "../../public/images/profile/fine.png";
 import { useInView, useMotionValue, useSpring } from 'framer-motion';
 import Skills from '@/components/Skills'; // Added missing import
 import Experience from '@/components/Experience';
@@ -48,23 +48,24 @@ const About = () => {
             <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
               <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
               <p className='font-medium'>
-                Hi, I'm Syeda Shamama Afeef, a Data Scientist and the Co-Founder of Gwen AI, where innovation meets intelligence to deliver cutting-edge AI solutions for business needs. 
-                I have a passion for uncovering insights, solving complex problems, and creating data-driven solutions that empower decision-making. 
-                With 2.5 years of experience in the field, I am constantly seeking innovative ways to transform data into meaningful outcomes.
+                Hi, I'm Syeda Shamama Afeef, a Data Scientist dedicated to building intelligent, data-driven systems that connect innovation with real-world impact. With over 3.5 years of experience in machine learning, deep learning, NLP, computer vision, large language models (LLMs), generative AI, agentic AI, and MLOps, I specialize in designing scalable, production-grade AI solutions that empower smarter decisions and automation.
               </p>
               <p className='my-4 font-medium'>
-                I believe that data science is about more than just numbers – it's about telling compelling stories, solving real-world challenges, and driving impactful change.
+                I see data science as more than numbers — it’s a blend of creativity, logic, and storytelling, where every dataset reveals opportunities to solve problems and shape the future.
               </p>
               <p className='font-medium'>
-                Whether I'm leading the development of advanced AI systems at Gwen AI, building predictive models, or analyzing trends, I bring my commitment to excellence, precision, and a user-focused mindset to every project I undertake. I look forward to the opportunity to bring my expertise and enthusiasm to your next endeavor.
+                From developing LLM-powered products and agentic AI workflows to deploying end-to-end machine learning pipelines on AWS, Azure, and GCP, I combine innovation with engineering precision. My work leverages tools like Docker, Kubernetes, and CI/CD to ensure seamless deployment, reliability, and scalability in production environments.
+              </p>
+              <p className='font-medium'>
+                I’m driven by a vision to create next-generation AI systems that not only learn and adapt but also think, collaborate, and deliver meaningful change across industries.
               </p>
             </div>
 
             <div className='col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark bg-light p-8 dark:bg-light xl:col-span-4 md:order-1 md:col-span-8'>
               <Image src={profilePic} alt="Afnan Khan" className='w-full h-auto rounded-2xl' 
               priority
-              sizes="(max-width: 768px) 100vw,
-              (max-width: 1200px) 50vw,
+              sizes="(max-width: 760px) 100vw,
+              (max-width: 1100px) 50vw,
               33vw"
               />
             </div>
@@ -72,7 +73,7 @@ const About = () => {
             <div className='col-span-2 flex flex-col items-end justify-between xl:col-span-8 xl:flex-row xl:items-center md:order-3'>
               <div className='flex flex-col items-end justify-center mb-4 xl:items-center'>
                 <span className='inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl'>
-                  <AnimatedNumbers value={25} />+
+                  <AnimatedNumbers value={56} />+
                 </span>
                 <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm'>
                   projects completed
@@ -80,7 +81,7 @@ const About = () => {
               </div>
               <div className='flex flex-col items-end justify-center xl:items-center'>
                 <span className='inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl'>
-                  <AnimatedNumbers value={2.5} />+
+                  <AnimatedNumbers value={3.5} />+
                 </span>
                 <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm'>
                   years of experience

@@ -32,16 +32,15 @@ export default function Home() {
               />
             </div>
             <div className='w-1/2 flex flex-col items-center self-center lg:w-full lg:text-center'>
-              <AnimatedText text="Turning Data Chaos into Brilliant Insights." className='!text-6xl !text-left
+              <AnimatedText text="Turning Data Chaos into Brilliant Insights." className='!text-8xl !text-left
               xl:!text-5xl lg:!text-center lg:!text=6xl md:!text-5xl sm:!text-3xl
               '/>
-              <p className='my-4 text-base font-medium md:text-sm sm:text-xs'>
-                Hi, I am Syeda Shamama Afeef As a skilled data scientist, I transform raw data into actionable insights. 
-                Explore my latest projects and articles, showcasing my expertise in analytics, machine learning, and AI.
+              <p className='my-8 text-base font-medium md:text-sm sm:text-xs'>
+                Hi, I’m Syeda Shamama Afeef. I leverage data science, machine learning, deep learning, NLP, and predictive analytics to engineer intelligent systems powered by LLMs, agentic AI, and generative AI. Explore my projects and articles where these technologies converge to transform raw data into adaptive, real-world intelligence.
               </p>
               <div className='flex items-center self-start mt-2 lg:self-center'>
                 <Link 
-                  href="/Shama.pdf" 
+                  href="/shamama-resume-f.pdf" 
                   target="_blank" 
                   className="flex items-center bg-dark text-light p-2.5 px-6 rounded-lg text-lg font-semibold hover:bg-light hover:text-dark border-2 border-solid border-transparent hover:border-dark
                   

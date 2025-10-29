@@ -36,13 +36,14 @@ sm:bg-circularLightSm sm:dark:bg-circularDarkSm
       '
       whileHover={{scale:1.05}}
       >
-        Data Science
+        Data Science /
+        Machine Learning
       </motion.div>
 
       <Skill name="Python & Libraries" x="-20vw" y="2vw"/>
       <Skill name="R" x="-5vw" y="-10vw"/>
       <Skill name="SQL" x="20vw" y="6vw"/>
-      <Skill name="Julia" x="0vw" y="12vw"/>
+      <Skill name="LangChain" x="0vw" y="12vw"/>
       <Skill name="Scala" x="-20vw" y="-15vw"/>
       <Skill name="Java" x="11vw" y="-12vw"/>
       <Skill name="HTML/CSS" x="20vw" y="-5vw"/>
@@ -65,20 +66,20 @@ sm:bg-circularLightSm sm:dark:bg-circularDarkSm
       <Skill name="RedShift" x="6vw" y="-5vw"/>
       <Skill name="Kafka, Apache flink" x="-14vw" y="-21vw"/>
       <Skill name="DevOps" x="-31vw" y="-4vw"/>
-      <Skill name="Dev. Tools" x="26Vw" y="18vw"/>
+      <Skill name="ETL Pipeline" x="26Vw" y="18vw"/>
       <Skill name="EDA" x="-25vw" y="20vw"/>
       <Skill name="Computer Vision" x="20vw" y="-10vw"/>
       <Skill name="NLP" x="-36vw" y="8vw"/>
       <Skill name="Fast APIs" x="30vw" y="-17vw"/>
       <Skill name="Model Deployment" x="-29vw" y="-19vw"/>
-      <Skill name="Agile/Scrum" x="18Vw" y="-23vw"/>
+      <Skill name="Agentic AI" x="18Vw" y="-23vw"/>
       <Skill name="Solution Design" x="21Vw" y="23vw"/>
       <Skill name="Dashboards designs" x="32vw" y="4vw"/>
       <Skill name="Power BI" x="-11vw" y="-2vw"/>
       <Skill name="Tableau" x="13Vw" y="-1vw"/>
       <Skill name="Docker, Kubernates" x="-32vw" y="16vw"/>
       <Skill name="Git" x="-5vw" y="-5vw"/>
-      <Skill name="Business Case Development" x="-14vw" y="14vw"/>
+      <Skill name="RAG Pipeline" x="-14vw" y="14vw"/>
 </div>
 </>
 )

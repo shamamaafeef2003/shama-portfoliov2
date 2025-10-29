@@ -58,55 +58,81 @@ const Experience = () => {
 
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
                     <Details
-                        position="Co-founder & Data Scientist"
+                        position="Data Scientist"
                         company="GWEN AI"
                         companyLink="https://Gwen.ai.com"
-                        time="2024-Present"
+                        time="MARCH 2023-Present"
                         address="Aurangabad, Mh, India"
-                        work="Co-Founded and led Data Scientist at Gwen AI, a company specializing in creating personalized AI for businesses, virtual assistants, smart assistants, chatbots, and comprehensive business solutions. Focused on leveraging AI-driven technologies to enhance customer engagement, streamline operations, and deliver tailored solutions that drive business growth and efficiency."
+                        work="Worked as a Data Scientist at Gwen AI, where I led the development of AI-powered business intelligence platforms, virtual assistants, and automation systems designed for diverse enterprise applications.
+Spearheaded the creation and deployment of fraud detection, object recognition, and LLM-driven conversational systems using frameworks like PyTorch and TensorFlow, optimizing data workflows and model efficiency.
+Engineered scalable cloud-based pipelines and production-grade deployments leveraging AWS, Docker, and Kubernetes, ensuring high reliability and real-time performance across products.
+Collaborated on integrating REST APIs and microservices architecture to deliver seamless interoperability and low-latency model inference.
+Focused on transforming raw data into actionable intelligence, improving decision-making speed, operational efficiency, and measurable business ROI through advanced AI and data-driven solutions."
+                    />
+                    <Details
+                        position="Agentic AI Developer / LLM Fine Tuner  Freelancer"
+                        company="Mindrift"
+                        companyLink="https://mindrift.com"
+                        time="Parallel Freelance Work | "
+                        address="Remote Work"
+                        work=""
                     />
 
                 
                     <Details
                         position="Data Scientist Intern"
-                        company="Techno Hacks"
-                        companyLink="https://technohacks.co.in/"
-                        time="2025-2025"
+                        company="Boston Consulting Group (BCG)"
+                        companyLink="https://www.bcg.com/"
+                        time="DECEMBER 2022- FEBRUARY 2023"
                         address="Remote work"
-                        work="Assisted in developing advanced data-driven solutions, including predictive modeling and statistical analysis. Collaborated with cross-functional teams to derive actionable insights from complex datasets and contributed to the optimization of business processes through data analytics."
+                        work="Worked as a Data Science Intern at Boston Consulting Group (BCG), India, where I contributed to building AI-driven forecasting and analytics frameworks that supported strategic decision-making for global clients.
+
+Designed and implemented time-series forecasting models (LSTM, RNN) to predict financial trends and key performance metrics, improving forecast accuracy by 20% and enhancing business planning precision.
+
+Automated interactive KPI dashboards using Power BI and Tableau, reducing manual reporting time by 60% and enabling real-time performance tracking.
+
+Partnered with cross-functional business and analytics teams to translate complex datasets into actionable insights, driving data-informed decisions that optimized efficiency and ROI."
                     />
-                    <Details
-                        position="Data Science Intern"
-                        company="TechnoHacks"
-                        companyLink="https://technohacks.co.in/"
-                        time="2024-2024"
-                        address="Nashik, Mh, India"
-                        work="Independently developed advanced data-driven projects as a Data Science Intern at TechnoHacks, including credit card fraud detection models, social media sentiment analysis, and spam email detection systems. Leveraged predictive modeling, statistical analysis, and machine learning techniques to analyze complex datasets, extract actionable insights, and optimize decision-making processes."
-                    />
-                    <Details
-                        position="Data Science Intern"
-                        company="BharatInterns"
-                        companyLink="https://bharatintern.live/"
-                        time="2023-2023"
-                        address="Bhopal, Mp, India"
-                        work="Successfully led and developed data-driven projects as a Data Science Intern at Bharat Interns, including a Netflix stock price prediction system and Titanic survival classification model. Leveraged advanced predictive modeling, machine learning, and statistical analysis to extract actionable insights from complex datasets, driving informed decision-making and delivering tangible results."
-                    />
+                   
                     <Details
                         position="Artificial Intelligence Intern"
                         company="Cognizant"
                         companyLink="https://www.cognizant.com"
-                        time="2023-2023"
+                        time="AUGUST 2022- NOVEMBER 2022"
                         address="Remote work"
-                        work="supporting the Data Science team with AI-driven solutions. Performed exploratory data analysis using Python and Google Colab for Gala Groceries, a key client. Created a Python module to streamline model training and performance evaluation for the Machine Learning engineering team. Presented actionable insights and analysis through clear and impactful PowerPoint presentations, aiding strategic business decisions."
+                        work="During my internship at Cognizant, I worked on optimizing large-scale machine learning pipelines to improve model efficiency and scalability. By applying advanced techniques such as model pruning and hyperparameter tuning, I successfully reduced inference latency by 35%.
+
+I also built and deployed Transformer-based NLP models (BERT, DistilBERT) that automated text classification and significantly improved workflow accuracy. Beyond model development, I contributed to automating data reporting and validation processes, enabling smoother integration of AI solutions within enterprise systems.
+
+This experience strengthened my expertise in MLOps, NLP, and scalable AI development, while also enhancing my ability to collaborate with cross-functional teams to translate complex data challenges into impactful business solutions."
                     />
                     <Details
                         position="Data Analytics Intern"
-                        company="Accenture"
-                        companyLink="https://www.Accenture.com"
-                        time="2024-2024"
+                        company="PwC"
+                        companyLink="https://www.PWC.com"
+                        time="MARCH 2022-JUNE 2022"
                         address="Remote work"
-                        work="contributing to the Digital Intelligence team through advanced data analysis and modeling. Developed Python classification models, evaluated feature importance, and created visual representations to enhance insights. Produced a comprehensive valuation document by analyzing historical data, forecasting cash flows, and determining portfolio present value. Collaborated on a client’s data strategy proposal, conducting in-depth analysis of medical data for adverse effects, comparing medications, and recommending further investigations to inform strategic decisions."
+                        work="At PwC, I focused on transforming raw financial data into strategic insights through AI-powered risk modeling and predictive analytics. I designed and validated advanced risk models that improved forecast accuracy and enhanced decision-making for financial stakeholders.
+
+To support real-time monitoring, I built interactive Tableau dashboards that visualized key metrics, trends, and anomalies, making complex data easily accessible for executives and clients.
+
+This experience deepened my expertise in data-driven financial analytics, dashboard engineering, and applied machine learning, while giving me hands-on exposure to solving real-world business challenges in a global consulting environment."
                     />
+                    <Details
+                        position="Data Scientist Freelancer"
+                        company="TechnoHacks"
+                        companyLink="https://technohacks.com"
+                        time="Parallel Freelance Work | 2021-Present"
+                        address="Nashik, Mh, India"
+                        work="At Techno Hacks, I engineered real-time fraud detection systems using XGBoost and advanced anomaly detection techniques, achieving over 95% accuracy in identifying fraudulent transactions.
+
+I streamlined ETL workflows with SQL and Python, enhancing data pipeline efficiency and improving operational throughput by 40%.
+
+Additionally, I developed interactive BI dashboards for financial anomaly tracking, enabling faster insights and data-driven decision-making across business units.
+
+This internship strengthened my hands-on expertise in machine learning, data engineering, and analytics automation, while honing my ability to build production-ready data systems that deliver tangible business impact."
+                    />
+                    
                     {/* Repeat Details component for other entries with different data */}
                 </ul>
             </div>

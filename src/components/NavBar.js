@@ -88,7 +88,7 @@ const NavBar = () => {
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
       whileTap={{ scale: 0.9 }}
-      className="w-6 mx-3"
+      className="w-12 mx-3"
     >
       <TwitterIcon />
     </motion.a>
@@ -100,7 +100,7 @@ const NavBar = () => {
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
       whileTap={{ scale: 0.9 }}
-      className="w-6 mx-3"
+      className="w-12 mx-3"
     >
       <GithubIcon />
     </motion.a>
@@ -112,7 +112,7 @@ const NavBar = () => {
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
       whileTap={{ scale: 0.9 }}
-      className="w-6 mx-3"
+      className="w-12 mx-3"
     >
       <LinkedInIcon />
     </motion.a>
@@ -124,7 +124,7 @@ const NavBar = () => {
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
       whileTap={{ scale: 0.9 }}
-      className="w-6 mx-3 bg-light rounded-full"
+      className="w-12 mx-3 bg-light rounded-full"
     >
       <PinterestIcon />
     </motion.a>
@@ -136,7 +136,7 @@ const NavBar = () => {
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
       whileTap={{ scale: 0.9 }}
-      className="w-6 ml-3"
+      className="w-12 ml-3"
     >
       <DribbbleIcon />
     </motion.a>
@@ -182,7 +182,7 @@ bg-dark/90 dark:bg-light/75 rounded-lg backdrop-blur-md py-32
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
       whileTap={{ scale: 0.9 }}
-      className="w-6 mx-3 sm:mx-1"
+      className="w-12 mx-3 sm:mx-1"
     >
       <TwitterIcon />
     </motion.a>
@@ -194,7 +194,7 @@ bg-dark/90 dark:bg-light/75 rounded-lg backdrop-blur-md py-32
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
       whileTap={{ scale: 0.9 }}
-      className="w-6 mx-3 bg-light rounded-full dark:bg-dark sm:mx-1"
+      className="w-12 mx-3 bg-light rounded-full dark:bg-dark sm:mx-1"
     >
       <GithubIcon />
     </motion.a>
@@ -206,19 +206,19 @@ bg-dark/90 dark:bg-light/75 rounded-lg backdrop-blur-md py-32
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
       whileTap={{ scale: 0.9 }}
-      className="w-6 mx-3 bg-light rounded-full sm:mx-1"
+      className="w-12 mx-3 bg-light rounded-full sm:mx-1"
     >
       <LinkedInIcon />
     </motion.a>
 
     {/* Pinterest */}
     <motion.a 
-      href="https://in.pinterest.com/affyy19/" 
+      href="https://in.pinterest.com/" 
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
       whileTap={{ scale: 0.9 }}
-      className="w-6 mx-3 bg-light rounded-full sm:mx-1"
+      className="w-12 mx-3 bg-light rounded-full sm:mx-1"
     >
       <PinterestIcon />
     </motion.a>
@@ -230,7 +230,7 @@ bg-dark/90 dark:bg-light/75 rounded-lg backdrop-blur-md py-32
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
       whileTap={{ scale: 0.9 }}
-      className="w-6 ml-3 sm:mx-1"
+      className="w-12 ml-3 sm:mx-1"
     >
       <DribbbleIcon />
     </motion.a>
