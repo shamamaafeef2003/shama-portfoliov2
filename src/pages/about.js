@@ -3,7 +3,7 @@ import Layout from '../components/Layout';
 import Head from 'next/head';
 import Image from 'next/image';
 import React, { useEffect, useRef } from 'react';
-import profilePic from "../../public/images/profile/fine.png";
+import profilePic from "../../public/images/profile/developer.png";
 import { useInView, useMotionValue, useSpring } from 'framer-motion';
 import Skills from '@/components/Skills'; // Added missing import
 import Experience from '@/components/Experience';
@@ -37,8 +37,8 @@ const About = () => {
   return (
     <>
       <Head>
-        <title>Shamama afeef | About Page</title>
-        <meta name="description" content="Learn more about Syeda Shamama Afeef, a Data Scientist and the Co-Founder Gwen AI." />
+        <title>Pathan Afnan Khan | About Page</title>
+        <meta name="description" content="Learn more about Pathan Afnan Khan, a Data Scientist and the Co-Founder Gwen AI." />
       </Head>
       <TransitionEffect/>
       <main className='flex w-full flex-col items-center justify-center dark:text-light'>
@@ -48,7 +48,7 @@ const About = () => {
             <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
               <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
               <p className='font-medium'>
-                Hi, I'm Syeda Shamama Afeef, a Data Scientist dedicated to building intelligent, data-driven systems that connect innovation with real-world impact. With over 3.5 years of experience in machine learning, deep learning, NLP, computer vision, large language models (LLMs), generative AI, agentic AI, and MLOps, I specialize in designing scalable, production-grade AI solutions that empower smarter decisions and automation.
+                Hi, I'm Pathan Afnan Khan, a Data Scientist dedicated to building intelligent, data-driven systems that connect innovation with real-world impact. With over 3.5 years of experience in machine learning, deep learning, NLP, computer vision, large language models (LLMs), generative AI, agentic AI, and MLOps, I specialize in designing scalable, production-grade AI solutions that empower smarter decisions and automation.
               </p>
               <p className='my-4 font-medium'>
                 I see data science as more than numbers — it’s a blend of creativity, logic, and storytelling, where every dataset reveals opportunities to solve problems and shape the future.

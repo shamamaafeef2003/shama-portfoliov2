@@ -91,8 +91,8 @@ const Projects = () => {
     return (
         <>
             <Head>
-                <title>Syeda Shamama Afeef | Projects Page</title>
-                <meta name="description" content="Learn more about Afnan Khan, a Data Scientist and the Founder & CEO of Gwen AI." />
+                <title>Pathan Afnan Khan | Projects Page</title>
+                <meta name="description" content="Learn more about Afnan Khan, a Data Scientist " />
             </Head>
             
             <main className="w-full mb-16 flex flex-col items-center justify-center min-h-screen dark:text-light">
@@ -125,7 +125,7 @@ const Projects = () => {
                         <div className='col-span-6 sm:col-span-12'>
                             <Project 
                                 title="Personalized Nutrition Notification System"
-                                img="/images/projects/nutri.png"
+                                img="/images/projects/ppg spo.png"
                                 link="https://github.com/shamamaafeef2003/nutrition_ai_agent"
                                 github="https://github.com/shamamaafeef2003/nutrition_ai_agent"
                                 type="AI, NLP / Healthcare"
@@ -144,7 +144,7 @@ const Projects = () => {
                         <div className='col-span-6 sm:col-span-12'>
                             <Project 
                                 title="Realtime User Intent Detection Conversational AI"
-                                img="/images/projects/ai.png"
+                                img="/images/projects/ai2.png"
                                 link="https://shamama-convo11.vercel.app/"
                                 github="https://github.com/shamamaafeef2003/Convo-Ai-syeda-shamama-afeef"
                                 type="AI / NLP / Conversational Systems"
@@ -153,7 +153,7 @@ const Projects = () => {
                         <div className='col-span-6 sm:col-span-12'>
                             <Project 
                                 title="Realtime Conversational AI Chatbot"
-                                img="/images/projects/afs.png"
+                                img="/images/projects/afs2.png"
                                 link="https://conversation-chatbot-ivory.vercel.app/"
                                 github="https://github.com/afeef2003/conversation-chatbot"
                                 type="Finance / Business Intelligence"
@@ -162,7 +162,7 @@ const Projects = () => {
                         <div className='col-span-12'>
                             <FeaturedProject 
                                 title="Transcription App"
-                                img="/images/projects/app.png"
+                                img="/images/projects/app2.png"
                                 summary="An advanced AI-powered transcription application that converts speech to text in real-time using state-of-the-art NLP and speech recognition models. It supports multiple languages, speaker differentiation, and provides a clean, intuitive interface for editing and exporting transcriptions seamlessly."
                                 link="https://github.com/shamamaafeef2003/Transcription-app"
                                 github="https://github.com/shamamaafeef2003/Transcription-app"
@@ -181,7 +181,7 @@ const Projects = () => {
                         <div className='col-span-6 sm:col-span-12'>
                             <Project 
                                 title="Performance Analysis"
-                                img="/images/projects/per.png"
+                                img="/images/projects/tran2.png"
                                 link="https://github.com/shamamaafeef2003/Internshaala-project"
                                 github="https://github.com/shamamaafeef2003/Internshaala-project"
                                 type="Data Analytics / Business Intelligence"
@@ -200,7 +200,7 @@ const Projects = () => {
                         <div className='col-span-6 sm:col-span-12'>
                             <Project 
                                 title="AI-OCR PDF Extractor System"
-                                img="/images/projects/ocr.png"
+                                img="/images/projects/ai-ocr2.png"
                                 link="https://github.com/shamamaafeef2003/ai-ocr-pdf-extractor-Syeda_Shamama"
                                 github="https://github.com/shamamaafeef2003/ai-ocr-pdf-extractor-Syeda_Shamama"
                                 type="Finance / Backend System / AI"
@@ -209,7 +209,7 @@ const Projects = () => {
                         <div className='col-span-6 sm:col-span-12'>
                             <Project 
                                 title="QA Agent AI-Powered Testing System"
-                                img="/images/projects/qa.png"
+                                img="/images/projects/qa2.png"
                                 link="https://github.com/shamamaafeef2003/QA-Agent-Task---AK"
                                 github="https://github.com/shamamaafeef2003/QA-Agent-Task---AK"
                                 type="AI / QA Automation / Software Testing"
@@ -218,7 +218,7 @@ const Projects = () => {
                         <div className='col-span-12'>
                             <FeaturedProject 
                                 title="Langie - LangGraph Customer Support Agent"
-                                img="/images/projects/lang.png"
+                                img="/images/projects/lang2.png"
                                 summary="An AI-powered multilingual customer support agent built using LangGraph and Large Language Models (LLMs). Langie automates customer interactions, provides contextual responses, and supports dynamic workflows such as ticket generation, FAQ resolution, and sentiment-based routing — all in real time."
                                 link="https://github.com/shamamaafeef2003/Lang-Graph-Agent--Syeda-Shamama-Afeef"
                                 github="https://github.com/shamamaafeef2003/Lang-Graph-Agent--Syeda-Shamama-Afeef"
@@ -238,7 +238,7 @@ const Projects = () => {
                         <div className='col-span-6 sm:col-span-12'>
                             <Project 
                                 title="ISTM Data-Pipeline System"
-                                img="/images/projects/istm.png"
+                                img="/images/projects/istm2.png"
                                 link="https://github.com/shamamaafeef2003/istm_data_pipeline_by_syeda_shamama_afeef"
                                 github="https://github.com/shamamaafeef2003/istm_data_pipeline_by_syeda_shamama_afeef"
                                 type="Data Engineering / Automation"
@@ -247,16 +247,16 @@ const Projects = () => {
                         <div className='col-span-6 sm:col-span-12'>
                             <Project 
                                 title="PDF Parser Pipeline"
-                                img="/images/projects/odp.png"
+                                img="/images/projects/odp2.png"
                                 link="https://github.com/shamamaafeef2003/Od-parser_pipeline-assesment_by_Syeda_shamama_afeef"
                                 github="https://github.com/shamamaafeef2003/Od-parser_pipeline-assesment_by_Syeda_shamama_afeef"
-                                type="https://github.com/shamamaafeef2003/Od-parser_pipeline-assesment_by_Syeda_shamama_afeef"
+                                type="AI/ EdTech / NLP"
                             />
                         </div>
                         <div className='col-span-12'>
                             <FeaturedProject 
                                 title="eCOURT India Scraper"
-                                img="/images/projects/court.png"
+                                img="/images/projects/court2.png"
                                 summary="A modern, real-time web scraping system designed to fetch cause lists from Indian eCourts. Built with Python, Selenium, and BeautifulSoup, featuring dynamic dropdown navigation for states, districts, and courts. Includes bulk and single court downloads, automated PDF generation, and an interactive React-based dashboard for visualization."
                                 link="https://github.com/shamamaafeef2003/Ecourt-scraper-shamama"
                                 github="https://github.com/shamamaafeef2003/Ecourt-scraper-shamama"
@@ -266,7 +266,7 @@ const Projects = () => {
                         <div className='col-span-12'>
                             <FeaturedProject 
                                 title="Team Project Planner"
-                                img="/images/projects/team.png"
+                                img="/images/projects/team2.png"
                                 summary="A comprehensive Python-based project management and collaboration tool that allows users to create teams, manage boards, and assign tasks. Features include user and team management, JSON-based data persistence, hierarchical admin roles, automated board reporting, and error handling with custom validations — all built for efficient teamwork and productivity."
                                 link="https://github.com/shamamaafeef2003/Factwise_Assignment_AK"
                                 github="https://github.com/shamamaafeef2003/Factwise_Assignment_AK"
@@ -276,7 +276,7 @@ const Projects = () => {
                         <div className='col-span-6 sm:col-span-12'>
                             <Project 
                                 title="MATH Question Generator"
-                                img="/images/projects/math.png"
+                                img="/images/projects/math2.png"
                                 link="https://github.com/afeef2003/Questin_generator_Syeda_Shamama_Afeef2-"
                                 github="https://github.com/afeef2003/Questin_generator_Syeda_Shamama_Afeef2-"
                                 type="AI / Education / Automation"
@@ -285,7 +285,7 @@ const Projects = () => {
                         <div className='col-span-6 sm:col-span-12'>
                             <Project 
                                 title="Real-Time Simulator & Event Trigger System"
-                                img="/images/projects/tri.png"
+                                img="/images/projects/tri2.png"
                                 link="https://colab.research.google.com/drive/1gz2ktYf5KliZeiEApYfa2-giYgdNEO1_?usp=sharing"
                                 github="https://colab.research.google.com/drive/1gz2ktYf5KliZeiEApYfa2-giYgdNEO1_?usp=sharing"
                                 type="AI / Automation / Simulation"
@@ -294,7 +294,7 @@ const Projects = () => {
                         <div className='col-span-12'>
                             <FeaturedProject 
                                 title="Multi Language Translation System"
-                                img="/images/projects/multi.png"
+                                img="/images/projects/multi2.png"
                                 summary="An AI-powered multilingual translation system built using NLP and LangChain, capable of translating text across multiple global languages in real time. The system leverages transformer-based models and prompt engineering for context-aware, accurate, and natural translations."
                                 link="https://colab.research.google.com/drive/1AjF_mGghq-SigP-fxVkAaNUO17Q-hUUY?usp=sharing"
                                 github="https://colab.research.google.com/drive/1AjF_mGghq-SigP-fxVkAaNUO17Q-hUUY?usp=sharing"

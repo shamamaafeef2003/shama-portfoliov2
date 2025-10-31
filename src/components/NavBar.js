@@ -95,7 +95,7 @@ const NavBar = () => {
 
     {/* GitHub */}
     <motion.a 
-      href="https://github.com/afeef2003" 
+      href="https://github.com/shamamaafeef2003" 
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
@@ -107,7 +107,7 @@ const NavBar = () => {
 
     {/* LinkedIn */}
     <motion.a 
-      href="https://www.linkedin.com/in/syeda-shamama/" 
+      href="https://www.linkedin.com/in/afnan-khan4/" 
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
@@ -119,7 +119,7 @@ const NavBar = () => {
 
     {/* Pinterest */}
     <motion.a 
-      href="https://in.pinterest.com/affyy19/" 
+      href="https://in.pinterest.com/Spi_0z" 
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
@@ -177,7 +177,7 @@ bg-dark/90 dark:bg-light/75 rounded-lg backdrop-blur-md py-32
   <nav className="flex items-center justify-center flex-wrap mt-2">
     {/* Twitter */}
     <motion.a 
-      href="https://x.com/syeda_shamama19" 
+      href="https://x.com/afnankhan" 
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
@@ -189,7 +189,7 @@ bg-dark/90 dark:bg-light/75 rounded-lg backdrop-blur-md py-32
 
     {/* GitHub */}
     <motion.a 
-      href="https://github.com/afeef2003" 
+      href="https://github.com/shamamaafeef2003" 
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
@@ -201,7 +201,7 @@ bg-dark/90 dark:bg-light/75 rounded-lg backdrop-blur-md py-32
 
     {/* LinkedIn */}
     <motion.a 
-      href="https://www.linkedin.com/in/syeda-shamama/" 
+      href="https://www.linkedin.com/in/afnan-khan4/" 
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
@@ -213,7 +213,7 @@ bg-dark/90 dark:bg-light/75 rounded-lg backdrop-blur-md py-32
 
     {/* Pinterest */}
     <motion.a 
-      href="https://in.pinterest.com/" 
+      href="https://in.pinterest.com/Spi_0z" 
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
