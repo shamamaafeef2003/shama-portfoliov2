@@ -1,7 +1,7 @@
 import Layout from '@/components/Layout';
 import Head from 'next/head';
 import Image from 'next/image';
-import profilePic from "../../public/images/profile/bebo 3.png"; 
+import profilePic from "../../public/images/profile/afsham.png"; 
 import AnimatedText from '@/components/AnimatedText';
 import Link from 'next/link'; // Import Link
 import { LinkArrow } from '@/components/Icon';
@@ -36,11 +36,11 @@ export default function Home() {
               xl:!text-5xl lg:!text-center lg:!text=6xl md:!text-5xl sm:!text-3xl
               '/>
               <p className='my-8 text-base font-medium md:text-sm sm:text-xs'>
-                Hi, I’m Syeda Shamama Afeef. I leverage data science, machine learning, deep learning, NLP, and predictive analytics to engineer intelligent systems powered by LLMs, agentic AI, and generative AI. Explore my projects and articles where these technologies converge to transform raw data into adaptive, real-world intelligence.
+                Hi, I’m Pathan Afnan Khan. I leverage data science, machine learning, deep learning, NLP, and predictive analytics to engineer intelligent systems powered by LLMs, agentic AI, and generative AI. Explore my projects and articles where these technologies converge to transform raw data into adaptive, real-world intelligence.
               </p>
               <div className='flex items-center self-start mt-2 lg:self-center'>
                 <Link 
-                  href="/shamama-resume-f.pdf" 
+                  href="/afnans.pdf" 
                   target="_blank" 
                   className="flex items-center bg-dark text-light p-2.5 px-6 rounded-lg text-lg font-semibold hover:bg-light hover:text-dark border-2 border-solid border-transparent hover:border-dark
                   
@@ -52,7 +52,7 @@ export default function Home() {
                   Resume <LinkArrow className="w-6 ml-1" />
                 </Link>
                 <Link 
-                  href="mailto:syedashamama459@gmail.com" 
+                  href="mailto:afnankhan67445@gmail.com" 
                   target="_blank" 
                   className="ml-4 text-lg font-medium capitalize text-dark underline dark:text-light md:text-base"
                 >

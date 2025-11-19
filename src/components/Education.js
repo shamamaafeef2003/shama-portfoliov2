@@ -49,12 +49,7 @@ const Education = () => {
 
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
                     
-                    <Details
-                        type="MBA In Information Technology"
-                        time="2025-2027"
-                        place="Deogiri Institute of Engineering and Management Studies "
-                        info="Developed a strong blend of business strategy and information technology. Gained expertise in IT management, data-driven decision-making, digital transformation, and technology-enabled business solutions. Worked on projects involving analytics, process optimization, and AI-driven automation. Strengthened leadership, problem-solving, and strategic thinking skills, enabling me to align technology solutions with real business goals. "
-                    />
+
                     <Details
                         type="B.Tech In Electronics & Computer Engineering "
                         time="2021-2025"
