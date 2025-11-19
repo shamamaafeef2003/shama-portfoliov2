@@ -91,7 +91,7 @@ const Projects = () => {
     return (
         <>
             <Head>
-                <title>Pathan Afnan Khan | Projects Page</title>
+                <title>Syeda Shamama Afeef | Projects Page</title>
                 <meta name="description" content="Learn more about Afnan Khan, a Data Scientist " />
             </Head>
             

@@ -107,7 +107,7 @@ const NavBar = () => {
 
     {/* LinkedIn */}
     <motion.a 
-      href="https://www.linkedin.com/in/afnan-khan4/" 
+      href="https://www.linkedin.com/in/syeda-shamama/" 
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
@@ -119,7 +119,7 @@ const NavBar = () => {
 
     {/* Pinterest */}
     <motion.a 
-      href="https://in.pinterest.com/Spi_0z" 
+      href="https://in.pinterest.com" 
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
@@ -201,7 +201,7 @@ bg-dark/90 dark:bg-light/75 rounded-lg backdrop-blur-md py-32
 
     {/* LinkedIn */}
     <motion.a 
-      href="https://www.linkedin.com/in/afnan-khan4/" 
+      href="https://www.linkedin.com/in/syeda-shamama/" 
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
@@ -213,7 +213,7 @@ bg-dark/90 dark:bg-light/75 rounded-lg backdrop-blur-md py-32
 
     {/* Pinterest */}
     <motion.a 
-      href="https://in.pinterest.com/Spi_0z" 
+      href="https://in.pinterest.com" 
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ y: -2 }}
